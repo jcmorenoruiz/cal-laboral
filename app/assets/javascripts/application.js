@@ -14,10 +14,9 @@
 
 //= require jquery
 //= require jquery_ujs
-//= require bootstrap
-//= require jquery.turbolinks
 //= require turbolinks
-
+//= require bootstrap
+//= require bootstrap-sprockets
 //= require bootstrap-datepicker
 //= require bootstrap-datepicker/locales/bootstrap-datepicker.es
 //= require jquery.minicolors

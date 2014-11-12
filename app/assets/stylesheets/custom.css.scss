@@ -48,7 +48,7 @@ h2 {
   margin-bottom: 30px;
   text-align: center;
   font-weight: normal;
-  color: $grayLight;
+  // color: $grayLight;
 }
 
 p {
@@ -81,11 +81,11 @@ footer {
   margin-top: 45px;
   padding-top: 5px;
   border-top: 1px solid $grayMediumLight;
-  color: $grayLight;
+  //color: $grayLight;
   a {
     color: $gray;
     &:hover {
-      color: $grayDarker;
+    //  color: $grayDarker;
     }
   }
   small {
@@ -104,7 +104,6 @@ footer {
 
 /* mixins, variables, etc. */
 
-$grayMediumLight: #eaeaea;
 
 @mixin box_sizing {
   -moz-box-sizing: border-box;
@@ -129,7 +128,7 @@ $grayMediumLight: #eaeaea;
 aside {
   section {
     padding: 10px 0;
-    border-top: 1px solid $grayLighter;
+ //   border-top: 1px solid $grayLighter;
     &:first-child {
       border: 0;
       padding-top: 0;

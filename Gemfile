@@ -16,10 +16,12 @@ end
 gem 'sass-rails', '~> 4.0.3'
 gem 'font-awesome-sass'
 # Bootstrap
-#gem 'bootstrap-sass', '2.3.2.0' if v3 have any problems with rails 4
-gem 'bootstrap-sass', '~> 3.2.0' 
-gem 'sprockets', '2.11.0'
+
+gem 'bootstrap-sass', '~> 3.2.0'
 gem 'autoprefixer-rails'
+
+gem 'sprockets', '2.11.0'
+
 
 
 # Use Uglifier as compressor for JavaScript assets

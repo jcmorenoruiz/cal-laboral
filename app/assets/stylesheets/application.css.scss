@@ -13,9 +13,9 @@
  *= require_tree .
  *= require_self
  *= require jquery.minicolors
- *= require bootstrap
  */
-
+@import "bootstrap-sprockets";
+@import "bootstrap";
 
 h3 {
 	text-align:center;
