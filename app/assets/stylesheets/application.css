@@ -13,21 +13,22 @@
  *= require_tree .
  *= require_self
  *= require jquery.minicolors
+ *= require bootstrap
  */
 
 
- h3 {
- 	text-align:center;
- }
+h3 {
+	text-align:center;
+}
 
- textarea { resize: none; }
+textarea { 
+	resize:none; 
+}
 
 .subcontainer{
-	min-height: 500px;
+	min-height:500px;
 }
 
 div .well{
-
 	background-color:#EBF5FF;
 }
-
