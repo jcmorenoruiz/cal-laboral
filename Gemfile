@@ -9,12 +9,13 @@ gem 'pg'
 
 group :development do
  	# gem 'sqlite3', '1.3.8'	
- 	gem 'railroady'
+ 	gem 'railroady' # UML CLASS DIAGRAM GENERATOR
 end
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 gem 'font-awesome-sass'
+
 # Bootstrap
 
 gem 'bootstrap-sass', '~> 3.2.0'
